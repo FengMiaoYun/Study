@@ -1,0 +1,7 @@
+git add file.format
+git commit -m "what i did"
+git push origin master
+git status
+
+git log
+git reset --hard HEAD^
